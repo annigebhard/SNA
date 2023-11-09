@@ -1,0 +1,15 @@
+from,to,weight
+Spongebob,Patrick,2
+Spongebob,Sandy,1
+Spongebob,Thadd�us,1
+Spongebob,Mr. Crabs,1
+Patrick,Spongebob,2
+Patrick,Sandy,1
+Patrick,Thadd�us,1
+Sandy,Spongebob,1
+Sandy,Patrick,1
+Thadd�us,Spongebob,1
+Thadd�us,Patrick,1
+Thadd�us,Mr. Crabs,1
+Mr. Crabs,Spongebob,1
+Mr. Crabs,Thadd�us,1
