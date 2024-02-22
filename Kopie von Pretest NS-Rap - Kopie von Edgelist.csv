@@ -1,0 +1,50 @@
+from,to,relation,weight
+nds,alva,3,
+nds,azat,3,
+nds,chri,3,
+nds,kava,3,
+nds,maks,3,
+nds,prim,3,
+nds,prot,3,
+nds,runa,3,
+nds,skep,3,
+svp,bloo,3,
+svp,juli,3,
+svp,komb,3,
+bomb,drsu,3,
+bomb,86ki,3,
+bomb,herz,3,
+bomb,ptk,3,
+bomb,sadi,3,
+takt,micr,3,
+takt,vill,3,
+alva,runa,1,
+deee,vill,4,2
+86ki,ptk,4,2
+prot,chri,4,2
+toni,lapa,2,1
+lapa,urba,3,2
+lapa,bus,4,2
+lapa,holy,4,2
+lapa,yann,4,2
+lapa,twan,4,2
+lapa,xavi,1,1
+lapa,goet,4,2
+lapa,gals,1,1
+lapa,dert,4,2
+lapa,tum,4,2
+bus ,skun,1,1
+bus ,dert,4,2
+bus ,holy,4,2
+bus ,yann,4,2
+bus ,twan,4,2
+bus ,xavi,1,1
+bus ,goet,4,2
+bus,gals,1,1
+bus,tum,4,2
+dert,holy,4,2
+dert,yann,4,2
+dert,twan,4,2
+dert,xavi,4,2
+dert,goet,4,2
+dert,gals,4,1
